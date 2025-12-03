@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Iver!
 
-I'm a **22-year-old informatics student** at the **Norwegian University of Science and Technology (NTNU)**, originally from **Tromsø**.
+I'm a **23-year-old informatics student** at the **Norwegian University of Science and Technology (NTNU)**, originally from **Tromsø**.
 
 ## 🔭 Current Projects
 - **Software Development:** Working on various projects using **React**, **TypeScript**, **Java**, **C#**, and **JavaScript**, focusing on web development, data handling, testing, and application design.
