@@ -9,7 +9,7 @@ I'm a **23-year-old informatics student** at the **Norwegian University of Scien
 - **Unity 3D Development:** Experimenting with Unity 3D to build interactive applications, developing skills in game mechanics, 3D modeling, and immersive experiences.
 
 ## 🛠️ Skills
-- **Programming Languages:** React, JavaScript, TypeScript, Java, C#, Python
+- **Programming Languages:** JavaScript, Java, C#, Python
 - **Frameworks & Libraries:** Next.js, Vite.js, and Tailwind CSS
 - **Web Development:** Proficient in React, HTML, CSS, and JavaScript, TypeScript with experience in creating visually appealing and interactive web applications.
 - **Unity 3D:** Building projects with Unity, exploring physics engines, character control, and object interaction for both 2D and 3D applications.
