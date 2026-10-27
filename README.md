@@ -42,7 +42,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
 
-### 🚀 Projects
+### Projects
 
 #### [Animythos](https://github.com/iveroh/Animythos)
 A collection of reusable, interactive 3D animations and components built with React, Three.js, and React Three Fiber.
