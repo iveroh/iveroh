@@ -43,8 +43,8 @@
 
 ### Projects
 
-#### [Animythos](https://github.com/iveroh/Animythos)
-A collection of reusable, interactive 3D animations and components built with React, Three.js, and React Three Fiber.
+#### [Towel Man](https://github.com/iveroh/towel-man)
+Platformer game created for the course TPD4168 Game Design
 
 #### [Pintrest](https://github.com/iveroh/pintrest)
 Social media web application built with React, TypeScript, Tailwind CSS, PostgreSQL, and Prisma.
